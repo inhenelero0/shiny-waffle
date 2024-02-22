@@ -30,7 +30,7 @@ apply from: '../build.dependencies.gradle'
     android:theme="@style/AppThemeRedRC"
     android:usesCleartextTraffic="true">
 
-
+//put later here
     <intent-filter>
         <category android:name="android.intent.category.LAUNCHER" />
         <action android:name="android.intent.action.MAIN" />
